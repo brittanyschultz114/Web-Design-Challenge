@@ -96,7 +96,6 @@ body{
     border-style: solid;
     }
 
-
 /* content styling*/
 .content {
     padding-top: 50px;
@@ -113,24 +112,6 @@ body{
     font-size: 15px;
     border-top-color: rgb(255, 255, 255);
     }
-/* table text adjustments*/
-tr>th:nth-child(1),
-tr>th:nth-child(3),
-tr>th:nth-child(6),
-tr>th:nth-child(7),
-tr>th:nth-child(8),
-tr>th:nth-child(9),
-tr>th:nth-child(10),
-tr>td:nth-child(1),
-tr>td:nth-child(3),
-tr>td:nth-child(6),
-tr>td:nth-child(7),
-tr>td:nth-child(8),
-tr>td:nth-child(9),
-tr>td:nth-child(10) {
-    text-align: right;
-}
-
 
 /* small screen adjustments*/
 @media(max-width:767px){
