@@ -108,7 +108,11 @@ body{
     margin-top: 15px;
 }
 
-
+/* Table */
+.table {
+    font-size: 15px;
+    border-top-color: rgb(255, 255, 255);
+    }
 /* table text adjustments*/
 tr>th:nth-child(1),
 tr>th:nth-child(3),
